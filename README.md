@@ -82,7 +82,9 @@ Setting dns di MALANG agar janganlupa-ta.E12.pw mengarah ke MOJOKERTO. <br>
 ![image](https://user-images.githubusercontent.com/58405725/100545952-2bb71e80-3291-11eb-9a9e-9d13e91c5df2.png)
 <br>
 kemudian coba ping ke domain tersebut menggunakan uml client.
+<br>
 ![image](https://user-images.githubusercontent.com/58405725/100545963-396ca400-3291-11eb-9be3-d14f617bc8f8.png)
+<br>
 Jika sudah maka untuk proxy kita sudah bisa menggunakan domain yang dibuat tadi sebagai pengganti IP Mojokerto.
 
 
